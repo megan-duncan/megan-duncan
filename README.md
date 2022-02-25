@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @megan-duncan
-- 💞️ I’m working on a habit tracker app
-- 🌱 I’m always learning, currently focusing on JavaScript
+- 👋 Hi, I’m Megan
+- Working as a Junior Dev in Wellington New Zealand
